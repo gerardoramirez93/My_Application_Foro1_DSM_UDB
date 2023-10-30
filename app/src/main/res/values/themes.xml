@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MyApplication_Foro1_DSM_UDB" parent="Theme.AppCompat.Light.DarkActionBar" />
+</resources>
